@@ -18,8 +18,7 @@
 
 # 📖 MadLibsGame<a name="about-project"></a>
 
-**MadLibsGame** In this project, I used the Decorator design pattern to correct the names of people.
-
+**MadLibsGame** Mad Libs game is a word game played by having one player prompt others for a list of words to substitute for blanks in a sentence without revealing the sentence itself. It is a good way to representhow ease is to get users input in Ruby.
 
 ## 🛠 Built With <a name="built-with"></a>
 
