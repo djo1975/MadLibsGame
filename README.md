@@ -1,4 +1,4 @@
-# OOP school library
+# MadLibsGame
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -16,9 +16,9 @@
 - [📝 License](#license)
 
 
-# 📖 OOP school library: decorate a classs<a name="about-project"></a>
+# 📖 MadLibsGame<a name="about-project"></a>
 
-**OOP school library: decorate a class** In this project, I used the Decorator design pattern to correct the names of people.
+**MadLibsGame** In this project, I used the Decorator design pattern to correct the names of people.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -33,9 +33,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Add new students or teachers.**
-- **Add new books.**
-- **Save records of who borrowed a given book and when.**
+- **Add more funy texts.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
